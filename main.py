@@ -5,8 +5,8 @@ import time
 import datetime
 import threading
 
-from modules.colorz import Colors
-from modules.config import Config
+from lib.colorz import Colors
+from lib.config import Config
 
 
 from tkinter import *
